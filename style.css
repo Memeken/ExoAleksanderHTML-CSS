@@ -1,0 +1,150 @@
+
+.rectangle{
+	width:400px;
+	height:200px;
+	background:red;
+	margin-left: 153px;
+	margin-top: 27px;
+	border:3px solid green;
+	border-radius: 50%;
+	position: absolute;
+	
+	
+}
+
+.rectangleBis{
+	width:400px;
+	height:200px;
+	margin-left: 628px;
+	margin-top: 27px;
+	background:red;
+	border:3px solid green;
+	border-radius: 50%;
+	position: absolute;
+}
+
+div.first-child{
+	margin-right: 75px;
+}
+
+.cercle1{
+	width:50px;
+	height:50px;
+	background: #fff;
+	border: 2px dotted black;
+	border-radius: 50%;
+	position: absolute;
+	margin-top: 102px;
+	margin-left: 328px;
+}
+
+.cercle2{
+	width:50px;
+	height:50px;
+	background: #fff;
+	border: 2px dotted black;
+	border-radius: 50%;
+	position: absolute;
+	margin-top: 102px;
+	margin-left: 803px;
+}
+
+.eye1{
+	width:10px;
+	height:10px;
+	background: black;
+	border: 2px solid black;
+	border-radius: 50%;
+	position: absolute;
+	margin-top: 122px;
+	margin-left: 348px;
+}
+
+.eye2{
+	width:10px;
+	height:10px;
+	background: black;
+	border: 2px solid black;
+	border-radius: 50%;
+	position: absolute;
+	margin-top: 122px;
+	margin-left: 823px;
+}
+
+.paupiereLeft{
+	width:400px;
+	height:200px;
+	background:black;
+	margin-left: 153px;
+	margin-top: 15px;
+	border:3px solid black;
+	border-radius: 50%;
+	position: absolute;
+}
+
+.paupiereRight{
+	width:400px;
+	height:200px;
+	margin-left: 628px;
+	margin-top: 15px;
+	background:black;
+	border:3px solid black;
+	border-radius: 50%;
+	position: absolute;
+}
+
+.nez1{
+	background: yellow;
+	width: 70px;
+	height: 150px;
+	margin-left: 560px;
+	margin-top: 240px;
+	position: absolute;
+}
+
+.nez2{
+	background: purple;
+	width: 70px;
+	height: 20px;
+	margin-left: 560px;
+	margin-top: 390px;
+	position: absolute;
+}
+
+.nez3{
+  border-bottom: 20px solid transparent;
+  border-left  : 20px solid blue; 
+  border-right : 20px solid transparent;
+  height : 150px;
+  width  : 0px;
+  margin-left: 560px;
+  margin-top: 240px;
+  position: absolute;
+}
+
+.bouche1{
+	width:875px;
+	height:200px;
+	background:yellow;
+	margin-left: 153px;
+	margin-top: 440px;
+	border-radius: 50%;
+	position: absolute;
+}
+
+.bouche2{
+	width:900px;
+	height:200px;
+	background:white;
+	margin-left: 140px;
+	margin-top: 420px;
+	border-radius: 50%;
+	position: absolute;
+}
+
+h1{
+	position: absolute;
+	margin-top: 700px;
+}
+
+	
