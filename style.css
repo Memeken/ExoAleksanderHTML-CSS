@@ -3,30 +3,20 @@
 	width:400px;
 	height:200px;
 	background:red;
-	margin-left: 153px;
-	margin-top: 27px;
+	margin: 27px 0px 0px 153px;
 	border:3px solid green;
 	border-radius: 50%;
-	position: absolute;
-	
-	
+	position: absolute
 }
-
 .rectangleBis{
 	width:400px;
 	height:200px;
-	margin-left: 628px;
-	margin-top: 27px;
+	margin: 27px 0px 0px 628px;
 	background:red;
 	border:3px solid green;
 	border-radius: 50%;
-	position: absolute;
+	position: absolute
 }
-
-div.first-child{
-	margin-right: 75px;
-}
-
 .cercle1{
 	width:50px;
 	height:50px;
@@ -34,10 +24,8 @@ div.first-child{
 	border: 2px dotted black;
 	border-radius: 50%;
 	position: absolute;
-	margin-top: 102px;
-	margin-left: 328px;
+	margin: 102px 0px 0px 328px
 }
-
 .cercle2{
 	width:50px;
 	height:50px;
@@ -45,10 +33,8 @@ div.first-child{
 	border: 2px dotted black;
 	border-radius: 50%;
 	position: absolute;
-	margin-top: 102px;
-	margin-left: 803px;
+	margin: 102px 0px 0px 803px
 }
-
 .eye1{
 	width:10px;
 	height:10px;
@@ -56,10 +42,8 @@ div.first-child{
 	border: 2px solid black;
 	border-radius: 50%;
 	position: absolute;
-	margin-top: 122px;
-	margin-left: 348px;
+	margin: 122px 0px 0px 348px
 }
-
 .eye2{
 	width:10px;
 	height:10px;
@@ -67,84 +51,62 @@ div.first-child{
 	border: 2px solid black;
 	border-radius: 50%;
 	position: absolute;
-	margin-top: 122px;
-	margin-left: 823px;
+	margin: 122px 0px 0px 823px
 }
-
 .paupiereLeft{
 	width:400px;
 	height:200px;
 	background:black;
-	margin-left: 153px;
-	margin-top: 15px;
+	margin: 15px 0px 0px 153px;
 	border:3px solid black;
 	border-radius: 50%;
-	position: absolute;
+	position: absolute
 }
-
 .paupiereRight{
 	width:400px;
 	height:200px;
-	margin-left: 628px;
-	margin-top: 15px;
+	margin: 15px 0px 0px 628px;
 	background:black;
 	border:3px solid black;
 	border-radius: 50%;
-	position: absolute;
+	position: absolute
 }
-
 .nez1{
 	background: yellow;
 	width: 70px;
 	height: 150px;
-	margin-left: 560px;
-	margin-top: 240px;
-	position: absolute;
+	margin: 240px 0px 0px 560px;
+	position: absolute
 }
-
 .nez2{
 	background: purple;
 	width: 70px;
 	height: 20px;
-	margin-left: 560px;
-	margin-top: 390px;
-	position: absolute;
+	margin: 390px 0px 0px 560px;
+	position: absolute
 }
-
 .nez3{
   border-bottom: 20px solid transparent;
   border-left  : 20px solid blue; 
   border-right : 20px solid transparent;
   height : 150px;
   width  : 0px;
-  margin-left: 560px;
-  margin-top: 240px;
-  position: absolute;
+  margin: 240px 0px 0px 560px;
+  position: absolute
 }
-
 .bouche1{
 	width:875px;
 	height:200px;
 	background:yellow;
-	margin-left: 153px;
-	margin-top: 440px;
+	margin: 440px 0px 0px 153px;
 	border-radius: 50%;
-	position: absolute;
+	position: absolute
 }
-
 .bouche2{
 	width:900px;
 	height:200px;
 	background:white;
-	margin-left: 140px;
-	margin-top: 420px;
+	margin: 420px 0px 0px 140px;
 	border-radius: 50%;
-	position: absolute;
+	position: absolute
 }
-
-h1{
-	position: absolute;
-	margin-top: 700px;
-}
-
-	
