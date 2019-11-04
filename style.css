@@ -74,3 +74,13 @@
 	border-bottom: 20px solid yellow;
 	position: absolute
 }
+.carre1{
+	width:200px;
+	height:200px;
+	background:purple;
+	/*margin: 27px 0px 0px 153px;*/
+	position: relative;
+	
+	/*position: absolute;*/
+	
+}
